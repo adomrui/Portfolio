@@ -21,7 +21,7 @@
 #wrapper {width: 80%;
           margin: auto;
           padding:5%;
-          background-color: rgba(121, 80, 46, 0.422);}
+          background-color: rgba(15, 12, 10, 0.422);}
 
 blockquote{font-style: italic; 
            border-left: 4px solid brown;
@@ -32,7 +32,7 @@ dt {font-weight: bold;
      font-variant: small-caps;
      color: rgb(123, 11, 34);
     }
-body  {background-image: url("https://i.pinimg.com/736x/97/63/84/976384ac1026c2e7e20a417a9316d95a.jpg");
+body  {background-image: url("https://s1.eestatic.com/2017/08/19/cocinillas/cocinillas_240240267_116374173_1706x960.jpg");
           background-size: cover;
          font-family: Verdana, Geneva, Tahoma, sans-serif;
           color: #fff ;}
